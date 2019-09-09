@@ -1,0 +1,6 @@
+1. process stockholder and member storage for districts other than SHENZHEN         completed
+2. Person vertices merging                                                          completed
+    merge in two ways:
+    a. by connection of explicit relations such as: stockholder, member, legal-person
+    b. by same name of persons. If two cliques have more than 2 pairs of same name, then merge the two cliques
+3. query interfaces
